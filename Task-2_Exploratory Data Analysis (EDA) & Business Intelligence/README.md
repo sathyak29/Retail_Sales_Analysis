@@ -5,3 +5,10 @@ This task includes:
 - SQL Business Questions
 - Multivariate Analysis
 - Dashboard Mockup
+
+
+# Tools:
+
+ - Ms Excel
+ - Jupyter Notebook
+ - MySql
