@@ -129,7 +129,3 @@ Built a fully functional, multi-page Power BI dashboard surfacing core KPIs and 
 
 ---
 
-
-
-
-*Prepared by: Data Analytics Intern · March 2026*
